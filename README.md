@@ -7,6 +7,8 @@ AI intelligent system for Face-Mask detection (Post COVID-19 Scenario)
 
 ## Essential Tools used in the detection process
 
+<img width="612" alt="Screenshot 2020-08-07 at 11 05 55 PM" src="https://user-images.githubusercontent.com/54894091/89672626-98816400-d902-11ea-949f-7c7f81e09f16.png">
+
 <img width="500" alt="Screenshot 2020-08-07 at 10 56 21 PM" src="https://user-images.githubusercontent.com/54894091/89671784-3aa04c80-d901-11ea-95f3-87816027ff59.png">
 
 ## Dataset Description
