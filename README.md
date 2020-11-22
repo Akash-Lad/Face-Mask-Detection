@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 AI intelligent system for Face-Mask detection (Post COVID-19 Scenario)
 
-## Face-Mask Detection using CNN and Haar-cascade classifier 
+## Face-Mask Detection using CNN and Haar-Cascade Classifier 
 
 <img width="500" alt="Screenshot 2020-08-07 at 10 55 14 PM" src="https://user-images.githubusercontent.com/54894091/89671740-22303200-d901-11ea-8765-13801a10e896.png">
 
